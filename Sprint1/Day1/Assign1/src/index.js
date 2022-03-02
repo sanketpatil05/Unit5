@@ -1,10 +1,10 @@
 import ("./index.css")
 
-import ("../file.png")
+ import img2 from "./file.png" 
 document.getElementById("btn").addEventListener("click", go);
 let img = document.getElementById("img1");
 let im = document.createElement("img");
-im.src = "../file.png"
+im.src = img2
 img.appendChild(im)
 function go() {
     
