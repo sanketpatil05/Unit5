@@ -1,4 +1,4 @@
-export function Groce({List,deleteitem,toggle}){
+export function Groce({List,deleteitem}){
     return(
         
         <div id="divC">
