@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "Sanket_05",
+      "age": "23",
+      "address": "fasdfasdf",
+      "dept": "mech",
+      "salary": "1234",
+      "ismarried": false,
+      "": "on",
+      "id": 1
+    },
+    {
+      "username": "vikas",
+      "age": "26",
+      "address": "fasdfasdf",
+      "dept": "mech",
+      "salary": "234532",
+      "ismarried": true,
+      "": "on",
+      "id": 2
+    }
+  ]
+}
