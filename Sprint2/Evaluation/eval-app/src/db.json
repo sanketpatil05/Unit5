@@ -1,0 +1,64 @@
+{
+  "houses": [
+    {
+      "name": "asdf",
+      "ownerName": "asdfads",
+      "address": "asdfafd",
+      "areaCode": "fasdf51",
+      "rent": "12",
+      "status": "bachelor",
+      "bachelor": "on",
+      "id": 1
+    },
+    {
+      "name": "asdf",
+      "ownerName": "asdf",
+      "address": "daf",
+      "areaCode": "adsf",
+      "rent": "12",
+      "status": "bachelor",
+      "bachelor": "on",
+      "id": 2
+    },
+    {
+      "name": "asdf",
+      "ownerName": "asdf",
+      "address": "daf",
+      "areaCode": "adsf",
+      "rent": "12",
+      "status": "bachelor",
+      "bachelor": "on",
+      "id": 3
+    },
+    {
+      "name": "asdf",
+      "ownerName": "adsfad",
+      "address": "fasdff",
+      "areaCode": "adsf",
+      "rent": "213",
+      "status": "married",
+      "married": "on",
+      "id": 4
+    },
+    {
+      "name": "asdf",
+      "ownerName": "adsfad",
+      "address": "fasdff",
+      "areaCode": "adsf",
+      "rent": "213",
+      "status": "married",
+      "married": "on",
+      "id": 5
+    },
+    {
+      "name": "asdfa",
+      "ownerName": "asfd",
+      "address": "adsfa",
+      "areaCode": "34",
+      "rent": "123",
+      "status": "married",
+      "married": "on",
+      "id": 6
+    }
+  ]
+}
