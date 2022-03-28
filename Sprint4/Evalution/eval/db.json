@@ -1,0 +1,72 @@
+{
+  "meetups": [
+    {
+      "title": "dsaadsf",
+      "location": "delhi",
+      "date": "asdffa",
+      "time": "asdf",
+      "theme": "technology",
+      "description": "asdfdf",
+      "image": "asdf",
+      "id": 1
+    },
+    {
+      "title": "Bar",
+      "location": "bangalore",
+      "date": "2022-22-22",
+      "time": "13.33",
+      "theme": "food",
+      "description": "Party",
+      "image": "asdfad",
+      "id": 2
+    },
+    {
+      "title": "Bar-restro",
+      "location": "kolkata",
+      "date": "2022-22-22",
+      "time": "13.33",
+      "theme": "food",
+      "description": "restor",
+      "image": "asdfad",
+      "id": 3
+    },
+    {
+      "title": "movie",
+      "location": "delhi",
+      "date": "2022-22-22",
+      "time": "13.33",
+      "theme": "movies",
+      "description": "moves",
+      "image": "asdfadsdf",
+      "id": 4
+    },
+    {
+      "title": "movie",
+      "location": "mumbai",
+      "date": "2022-22-22",
+      "time": "13.33",
+      "theme": "movies",
+      "description": "moves",
+      "image": "asdfadsdf",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "asdf",
+      "password": "asdf",
+      "location": "mumbai",
+      "technology": "on",
+      "image": "asdf",
+      "id": 1
+    },
+    {
+      "name": "asdfa",
+      "password": "asdf",
+      "location": "kolkata",
+      "culture": "on",
+      "image": "asdf",
+      "id": 2
+    }
+  ]
+}
